@@ -10,9 +10,6 @@ However, these termination packets can be spoofed by other devices. This will no
      
 <img class="fit-picture"
      src="/pics/WhatsApp%20Image%202023-01-05%20at%2015.46.25%20-%20Kopya.jpeg">
-
-<img class="fit-picture"
-     src="/pics/WhatsApp%20Image%202023-01-05%20at%2015.46.25.jpeg">
      
  <img class="fit-picture"
      src="/pics/WhatsApp%20Image%202023-01-05%20at%2022.33.03%20(1).jpeg">
