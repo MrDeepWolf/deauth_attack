@@ -24,7 +24,10 @@ We are using a Wemos d1 mini for a simple experiment
      src="/pics/WhatsApp%20Image%202023-01-05%20at%2022.33.03%20(2).jpeg">
  <img class="fit-picture"
      src="/pics/WhatsApp%20Image%202023-01-05%20at%2022.33.03.jpeg">
+ 
  After a quick scan and target wifi network selection, we initiate a Deauth attack.
+ 
+ 
  <img class="fit-picture"
      src="/pics/atak2%20-%20Kopya.png">
  
