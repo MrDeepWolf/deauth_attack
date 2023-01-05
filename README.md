@@ -39,10 +39,12 @@ We are using a Wemos d1 mini for a simple experiment
   <img class="fit-picture"
      src="/pics/dis%20-%20Kopya.png">
      
-  <img class="fit-picture"
-     src="/pics/eviltwin2-1024x626%20-%20Kopya.png">
+
   
      
     
 <img class="fit-picture"
      src="/pics/1_eXBh6RIhggabcQU0d0L9qA%20-%20Kopya.jpg">
+     
+When we scan with Wireshark, it is seen that the outgoing deauthentication packets and the router connection are disconnect.     
+
