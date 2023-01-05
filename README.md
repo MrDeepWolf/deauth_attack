@@ -12,8 +12,31 @@ However, these termination packets can be spoofed by other devices. This will no
      src="/pics/WhatsApp%20Image%202023-01-05%20at%2015.46.25%20-%20Kopya.jpeg">
 
 <img class="fit-picture"
-     src="/pics/eviltwin2-1024x626%20-%20Kopya.png">
+     src="/pics/WhatsApp%20Image%202023-01-05%20at%2015.46.25.jpeg">
      
+ <img class="fit-picture"
+     src="/pics/WhatsApp%20Image%202023-01-05%20at%2022.33.03%20(1).jpeg">
+ 
+ <img class="fit-picture"
+     src="/pics/WhatsApp%20Image%202023-01-05%20at%2022.33.03%20(2).jpeg">
+ <img class="fit-picture"
+     src="/pics/WhatsApp%20Image%202023-01-05%20at%2022.33.03.jpeg">
+ 
+ <img class="fit-picture"
+     src="/pics/deauth_attack/blob/main/pics/atak2%20-%20Kopya.png">
+ 
+ <img class="fit-picture"
+     src="/pics/deauth-1024x337%20-%20Kopya.png">
+ <img class="fit-picture"
+     src="/pics/deauth_attack/blob/main/pics/deauthattack%20-%20Kopya.png">
      
+  <img class="fit-picture"
+     src="/pics/deauth_attack/blob/main/pics/dis%20-%20Kopya.png">
+     
+  <img class="fit-picture"
+     src="/pics/deauth_attack/blob/main/pics/eviltwin2-1024x626%20-%20Kopya.png">
+  
+     
+    
 <img class="fit-picture"
      src="/pics/1_eXBh6RIhggabcQU0d0L9qA%20-%20Kopya.jpg">
