@@ -1,4 +1,5 @@
 # deauth_attack
+#arduino #deauthattack #wifiattack
 How safe are wifi networks?
 
 When a client wants to break its connection with the wireless network it is connected to, it terminates the relationship between them by pressing the disconnect button. Looking at the back of the job, the client sends a deauthentication packet to the wireless network and the connection is terminated.
