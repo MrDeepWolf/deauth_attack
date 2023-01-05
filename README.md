@@ -48,3 +48,9 @@ We are using a Wemos d1 mini for a simple experiment
      
 When we scan with Wireshark, it is seen that the outgoing deauthentication packets and the router connection are disconnect.     
 
+It is not possible to do a special blocking against these deauthentication attacks. It is true that they do less damage to the 5ghz connection, but it cannot be blocked. The best solution would be to follow the attack incoming signal with a monitor mod wifi adapter and kali. Already wifi attack signals cannot be made from very long distances.
+
+If you want to share your views and thoughts, send me to twitter.com/Enpazturk/ or
+https://www.instagram.com/enpazturco/
+you can follow
+
